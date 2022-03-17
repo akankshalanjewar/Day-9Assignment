@@ -1,0 +1,16 @@
+C:\Bridgelabz\Day-9\UC-8\bin\Debug\net5.0\UC-8.exe
+C:\Bridgelabz\Day-9\UC-8\bin\Debug\net5.0\UC-8.deps.json
+C:\Bridgelabz\Day-9\UC-8\bin\Debug\net5.0\UC-8.runtimeconfig.json
+C:\Bridgelabz\Day-9\UC-8\bin\Debug\net5.0\UC-8.runtimeconfig.dev.json
+C:\Bridgelabz\Day-9\UC-8\bin\Debug\net5.0\UC-8.dll
+C:\Bridgelabz\Day-9\UC-8\bin\Debug\net5.0\UC-8.pdb
+C:\Bridgelabz\Day-9\UC-8\obj\Debug\net5.0\UC-8.csproj.AssemblyReference.cache
+C:\Bridgelabz\Day-9\UC-8\obj\Debug\net5.0\UC-8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bridgelabz\Day-9\UC-8\obj\Debug\net5.0\UC-8.AssemblyInfoInputs.cache
+C:\Bridgelabz\Day-9\UC-8\obj\Debug\net5.0\UC-8.AssemblyInfo.cs
+C:\Bridgelabz\Day-9\UC-8\obj\Debug\net5.0\UC-8.csproj.CoreCompileInputs.cache
+C:\Bridgelabz\Day-9\UC-8\obj\Debug\net5.0\UC-8.dll
+C:\Bridgelabz\Day-9\UC-8\obj\Debug\net5.0\refint\UC-8.dll
+C:\Bridgelabz\Day-9\UC-8\obj\Debug\net5.0\UC-8.pdb
+C:\Bridgelabz\Day-9\UC-8\obj\Debug\net5.0\UC-8.genruntimeconfig.cache
+C:\Bridgelabz\Day-9\UC-8\obj\Debug\net5.0\ref\UC-8.dll
